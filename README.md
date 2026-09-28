@@ -4,9 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rajnish%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<a href="https://github.com/krraj4496-gif">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Rajnish+Kumar!;☕+Java+Developer+%26+Backend+Engineer;🏗️+Building+Desktop+%26+Database+Apps;🌱+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
-</a>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Rajnish+Kumar!;☕+Java+Developer+%26+Backend+Engineer;🏗️+Building+Desktop+%26+Database+Apps;🌱+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
