@@ -4,11 +4,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rajnish%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Java%20Developer%20%7C%20Backend%20Engineer%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing SVG -->
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Rajnish+Kumar!;☕+Java+Developer+%7C+Backend+Learner;💻+Learning+Java+Full+Stack+Development;🗄️+MySQL+%7C+Java+%7C+HTML5+%7C+CSS3;🌱+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
-</div>
+</div> -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Rajnish+Kumar!;%E2%98%95+Java+Developer+%26+Backend+Engineer;%F0%9F%8F%97%EF%B8%8F+Building+Desktop+%26+Database+Apps;%F0%9F%8C%B1+Always+Learning%2C+Always+Growing)](https://git.io/typing-svg)
 
 <br/>
 
